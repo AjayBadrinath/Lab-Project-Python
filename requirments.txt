@@ -1,0 +1,2 @@
+prettytable
+my-sql-connector
